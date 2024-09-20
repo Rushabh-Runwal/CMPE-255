@@ -10,13 +10,12 @@ Practiced Auto ML using Akkio
 
 [https://youtu.be/FemJhQiyDVw](https://youtu.be/TEcJM5j38Xo?si=eqJPkC0FSHbMdIBU)
 
-Used lung cancer data set to analyse on different features and applied different models to look how results change with a minimal delta. Please refer to the screen recording of the same below:
-
 https://youtu.be/2YxkLGHClB0
 
 Assignment 2: 
 
 https://youtu.be/TEcJM5j38Xo?si=eqJPkC0FSHbMdIBU
+
 
 Assignment 3: Pycaret and gradio
 
